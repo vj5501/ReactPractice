@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactpractice/fisrt_demo/static/css/main.e6c13ad2.css",
+    "main.js": "/reactpractice/fisrt_demo/static/js/main.90014dd6.js",
+    "static/js/787.cab186c8.chunk.js": "/reactpractice/fisrt_demo/static/js/787.cab186c8.chunk.js",
+    "index.html": "/reactpractice/fisrt_demo/index.html",
+    "main.e6c13ad2.css.map": "/reactpractice/fisrt_demo/static/css/main.e6c13ad2.css.map",
+    "main.90014dd6.js.map": "/reactpractice/fisrt_demo/static/js/main.90014dd6.js.map",
+    "787.cab186c8.chunk.js.map": "/reactpractice/fisrt_demo/static/js/787.cab186c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.90014dd6.js"
+  ]
+}
